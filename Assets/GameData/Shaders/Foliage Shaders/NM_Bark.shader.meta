@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8a95675767cdff4429e1abe2778a1f30
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _TrunkBaseColorMap: {instanceID: 0}
+  - _TrunkNormalMap: {instanceID: 0}
+  - _TrunkMaskMap: {instanceID: 0}
+  - _LayerMask: {instanceID: 0}
+  - _BarkBaseColorMap: {instanceID: 0}
+  - _BarkNormalMap: {instanceID: 0}
+  - _BarkMaskMap: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

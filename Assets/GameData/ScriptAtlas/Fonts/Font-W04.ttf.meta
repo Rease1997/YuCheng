@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8ca3448c9daa02744b33d21f7aa61667
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TsangerYuYangT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 847703d2d353436448bf68bf678c9fb1, type: 3}
+  - {fileID: 12800000, guid: 09430937ea4bc254d898934919eb0a0b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: marketfishpanel_prefab
+  assetBundleVariant: 

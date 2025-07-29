@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 17fe0707a2f5eaf47b958d799054ba13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AddBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 130
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1971fa674a85439af194747924da9
+      internalID: 1845097198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeikePic@3x
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 106
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9e17af45f6a948b18fd7cdaab49d6
+      internalID: 140704486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FailPic@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 196
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14316a76bc005841bf178f58fce6651
+      internalID: 392823477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FishquantityBack_9@3x
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 121
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 47, y: 0, z: 46, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ea460c25847e4cb90f508aebc4e8d
+      internalID: -1779684530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputBack_9@3x
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 47
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 49, z: 47, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb13ddad8758946850543b814666c9
+      internalID: 746070695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabelPic1_9@3x
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 32
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96374bff592f2d499c39bdc3823e964
+      internalID: -1763666942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabelPic2_9@3x
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 32
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30796c8d9032d444a0fec504d7188ac
+      internalID: 743546315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainBtn_9@3x
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2
+        width: 204
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 51, y: 29, z: 51, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db39a672e0ebcf459010680cdb48b1b
+      internalID: -1285792871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBack_9@3x
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 117
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 34, z: 34, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29070238f5ffb14993c84c1a785613c
+      internalID: -463577095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReduceBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 28
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db3ce1f1438b84f91dff53f390f9af
+      internalID: 462273489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReturnBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 45
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.4964539, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33110e33ffe64c6409ac639095ff194a
+      internalID: -1648105439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SalefishBack_9@3x
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 100
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 39, z: 39, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9638bbb4a2b69438b6264edfc46fd7
+      internalID: -279491120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplitlinePic_9@3x
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 177
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 0, z: 44, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624fc5155c3c27948bf8006fdad11a33
+      internalID: 429890054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuccessPic@3x
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 196
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2f530415863745b5b353168234abe
+      internalID: -474388271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TipBtn_9@3x
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 14
+        width: 204
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 51, y: 29, z: 51, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efeeb8f91b523d44aeaa745cd1b434f
+      internalID: -361557959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YubeiexplainBtn_9@3x
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 8
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 22, z: 22, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0891b808654dba46a5937d39d591d88
+      internalID: 1362960643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452822d0364d7342b80fb2fc8d31bb8
+      internalID: -2034361828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeleteBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 118
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb3b726d1680b34390403e65288cf05
+      internalID: -2080212042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: square@3x
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 32
+        width: 240
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df758fc621d35b3458a7c0550e2983f5
+      internalID: -1731159134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoticeBack@3x
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 183
+        width: 1347
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b573cc9b21ccb0449cfd0dd4f5bdc35
+      internalID: 1589214074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoticeIcon@3x
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 136
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5715216fa3ce94a96d24bb7f4f1610
+      internalID: -244618768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSliderBack_9@3x
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 0, z: 59, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27683675f4c3d5e4a8813ea82d61a9fd
+      internalID: -1940407267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSliderImg_9@3x
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 0, z: 59, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627132ff32dc8442a33db071465cbea
+      internalID: -981185225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CleanBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 130
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd54509741b3546a780268480dc9aa
+      internalID: -149492471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SerchIcon@3x
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 133
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7a10da6896024f80472ef4b2f3b68
+      internalID: 1347638771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dIcon@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6170f187e175eb43803572c4284b9f3
+      internalID: -200742091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3dIcon@3x
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 134
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a842a44666f374b9b26aac1e0494cb
+      internalID: -493473169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8b4f53c185edce46ad07d62bfce23a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2dIcon@3x: -200742091
+      3dIcon@3x: -493473169
+      AddBtn@3x: 1845097198
+      BeikePic@3x: 140704486
+      CleanBtn@3x: -149492471
+      CloseBtn@3x: -2034361828
+      DeleteBtn@3x: -2080212042
+      FailPic@3x: 392823477
+      FishquantityBack_9@3x: -1779684530
+      InputBack_9@3x: 746070695
+      LabelPic1_9@3x: -1763666942
+      LabelPic2_9@3x: 743546315
+      LoadingSliderBack_9@3x: -1940407267
+      LoadingSliderImg_9@3x: -981185225
+      MainBtn_9@3x: -1285792871
+      NoticeBack@3x: 1589214074
+      NoticeIcon@3x: -244618768
+      RecordBack_9@3x: -463577095
+      ReduceBtn@3x: 462273489
+      ReturnBtn@3x: -1648105439
+      SalefishBack_9@3x: -279491120
+      SerchIcon@3x: 1347638771
+      SplitlinePic_9@3x: 429890054
+      SuccessPic@3x: -474388271
+      TipBtn_9@3x: -361557959
+      YubeiexplainBtn_9@3x: 1362960643
+      square@3x: -1731159134
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: addfishmoneypanel_prefab
+  assetBundleVariant: 

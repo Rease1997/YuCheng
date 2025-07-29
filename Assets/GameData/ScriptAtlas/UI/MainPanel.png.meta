@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: b053551e804e82a48b8b43c9c03498f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DayBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 319
+        width: 113
+        height: 136
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8d903918e6afa4895fdd54a30175e0
+      internalID: -1976815666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 601
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1150ddb52e6c448458978c95746ce
+      internalID: -134732604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 597
+        width: 180
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4945355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba7b01dc85e634439786b8a073d6e02
+      internalID: -1183123632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveBlackBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 759
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefebc39ff6a6064bbcae8a3cebfe98d
+      internalID: -242785465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveWhiteBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41658661696924ab118ca214c7e146
+      internalID: -819286263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 113
+        height: 137
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.4890511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c1108a89330947a9b36cd47b0cd07
+      internalID: -1136165309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn1@3x
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 461
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf3bceac23459e41b0d0a4fe3c70204
+      internalID: -1878306882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn2@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80127b991a69df42af43eae18efc720
+      internalID: 1776695302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn3@3x
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 457
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7b783a6e50f540a273eee5b23c060
+      internalID: -259983078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn4@3x
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 321
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d0dd04102bad047acc9e6086cc470c
+      internalID: 376138906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn5@3x
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961e55ac49dd6e41a41eb9d76dab6c4
+      internalID: 550902502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoleBtn6@3x
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 457
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b519fb80c35f64daa0f230273e82d3
+      internalID: 53628102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignOutBtn@3x
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 853
+        width: 197
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5532995, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eaf95ab8d75674e8757eace06dfd88
+      internalID: 1585252534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewBtn1@3x
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 183
+        width: 113
+        height: 136
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f306769fd01f148803f7c767ad5587
+      internalID: 1074083217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViewBtn2@3x
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 113
+        height: 136
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362f747fb4767a4ca7efa9cadd74cbd
+      internalID: -1736555611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YubeiarrowPic@3x
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 917
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb1859b0e298347a779ac659cd1514
+      internalID: 1499411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YubeiBtn_9@3x
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 782
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 103, y: 0, z: 82, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07924313951a1af42afff6e0a6c6f7c9
+      internalID: 1635200609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuhuoBtn_9@3x
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 954
+        width: 218
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 115, y: 0, z: 103, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98ba49244c94f4984063ede7ec2902
+      internalID: 1966653380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7085e8dc5fa866641b0e2eb83476be6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DayBtn@3x: -1976815666
+      JumpBtn@3x: -134732604
+      MapBtn@3x: -1183123632
+      MoveBlackBtn@3x: -242785465
+      MoveWhiteBtn@3x: -819286263
+      NightBtn@3x: -1136165309
+      RoleBtn1@3x: -1878306882
+      RoleBtn2@3x: 1776695302
+      RoleBtn3@3x: -259983078
+      RoleBtn4@3x: 376138906
+      RoleBtn5@3x: 550902502
+      RoleBtn6@3x: 53628102
+      SignOutBtn@3x: 1585252534
+      ViewBtn1@3x: 1074083217
+      ViewBtn2@3x: -1736555611
+      YubeiBtn_9@3x: 1635200609
+      YubeiarrowPic@3x: 1499411055
+      YuhuoBtn_9@3x: 1966653380
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: billpanel_prefab
+  assetBundleVariant: 
