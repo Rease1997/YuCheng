@@ -1,0 +1,26 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/GameData/ScriptAtlas/UI/BagPanel.tpsheet
+- Assets/GameData/ScriptAtlas/UI/Common.tpsheet
+- Assets/GameData/ScriptAtlas/UI/DetailPanel.tpsheet
+- Assets/GameData/ScriptAtlas/UI/MainPanel.tpsheet
+- Assets/GameData/ScriptAtlas/UI/MapPanel.tpsheet
+- Assets/GameData/ScriptAtlas/UI/SelectPlayerPanel.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/GameData/ScriptAtlas/UI/BagPanel.png
+- Assets/GameData/ScriptAtlas/UI/Common.png
+- Assets/GameData/ScriptAtlas/UI/DetailPanel.png
+- Assets/GameData/ScriptAtlas/UI/MainPanel.png
+- Assets/GameData/ScriptAtlas/UI/MapPanel.png
+- Assets/GameData/ScriptAtlas/UI/SelectPlayerPanel.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
