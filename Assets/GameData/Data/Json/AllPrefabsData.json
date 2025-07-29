@@ -1,0 +1,176 @@
+﻿{
+	"data": 
+[
+	{
+		"ID" : 1001,
+		"Name" : "EmptyGameObject",
+		"Path" : "Assets/GameData/Prefabs/Building/EmptyGameObject.prefab"
+	},
+	{
+		"ID" : 10001,
+		"Name" : "Terrain_00",
+		"Path" : "Assets/GameData/Prefabs/Terrain/Terrain_00.prefab"
+	},
+	{
+		"ID" : 10002,
+		"Name" : "road03",
+		"Path" : "Assets/GameData/Prefabs/Terrain/road03.prefab"
+	},
+	{
+		"ID" : 10003,
+		"Name" : "Mountain_01",
+		"Path" : "Assets/GameData/Prefabs/Terrain/Mountain_01.prefab"
+	},
+	{
+		"ID" : 10004,
+		"Name" : "StylizedWater2",
+		"Path" : "Assets/GameData/Prefabs/Water/StylizedWater2.prefab"
+	},
+	{
+		"ID" : 10005,
+		"Name" : "Tree_Low",
+		"Path" : "Assets/GameData/Prefabs/Terrain/Tree_Low.prefab"
+	},
+	{
+		"ID" : 10006,
+		"Name" : "Trees",
+		"Path" : "Assets/GameData/Prefabs/Terrain/Trees.prefab"
+	},
+	{
+		"ID" : 10007,
+		"Name" : "CityGrass",
+		"Path" : "Assets/GameData/Prefabs/Terrain/CityGrass.prefab"
+	},
+	{
+		"ID" : 10008,
+		"Name" : "Bush",
+		"Path" : "Assets/GameData/Prefabs/Tree/Bush.prefab"
+	},
+	{
+		"ID" : 10009,
+		"Name" : "SmallPlants",
+		"Path" : "Assets/GameData/Prefabs/Tree/SmallPlants.prefab"
+	},
+	{
+		"ID" : 10010,
+		"Name" : "Rocks",
+		"Path" : "Assets/GameData/Prefabs/Terrain/Rocks.prefab"
+	},
+	{
+		"ID" : 10011,
+		"Name" : "StreetLight",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/AllStreetLight.prefab"
+	},
+	{
+		"ID" : 10012,
+		"Name" : "GuzhenCombined_A03_tianye_1128",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/GuzhenCombined_A03_tianye_1128.prefab"
+	},
+	{
+		"ID" : 10013,
+		"Name" : "A4_Center",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/A4_Center.prefab"
+	},
+	{
+		"ID" : 10014,
+		"Name" : "A_Fish",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/A_Fish.prefab"
+	},
+	{
+		"ID" : 10015,
+		"Name" : "interiorphoto",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/interiorphoto.prefab"
+	},
+	{
+		"ID" : 10016,
+		"Name" : "A4_Lamppost",
+		"Path" : "Assets/GameData/Prefabs/Building/GuZhen/Goods/A4_Lamppost.prefab"
+	},
+	{
+		"ID" : 10017,
+		"Name" : "Bridge",
+		"Path" : "Assets/GameData/Prefabs/Building/Bridge.prefab"
+	},
+	{
+		"ID" : 10018,
+		"Name" : "Brige_over_Sea_01",
+		"Path" : "Assets/GameData/Prefabs/Building/Brige_over_Sea_01.prefab"
+	},
+	{
+		"ID" : 10019,
+		"Name" : "DongMenDao_AddBuildings_02(1)",
+		"Path" : "Assets/GameData/Prefabs/Building/DongMenDao_AddBuildings_02(1).prefab"
+	},
+	{
+		"ID" : 10020,
+		"Name" : "DongMenDao_New",
+		"Path" : "Assets/GameData/Prefabs/Building/DongMenDao_New.prefab"
+	},
+	{
+		"ID" : 10021,
+		"Name" : "light_tower",
+		"Path" : "Assets/GameData/Prefabs/Building/light_tower.prefab"
+	},
+	{
+		"ID" : 10022,
+		"Name" : "Wharf",
+		"Path" : "Assets/GameData/Prefabs/Building/Wharf.prefab"
+	},
+	{
+		"ID" : 10023,
+		"Name" : "Furniture",
+		"Path" : "Assets/GameData/Prefabs/Building/Furniture.prefab"
+	},
+	{
+		"ID" : 10024,
+		"Name" : "AirWallDMD",
+		"Path" : "Assets/GameData/Prefabs/Building/AirWallDMD.prefab"
+	},
+	{
+		"ID" : 10025,
+		"Name" : "C3_Guangjing",
+		"Path" : "Assets/GameData/Prefabs/Building/GuangJing/C3_Guangjing.prefab"
+	},
+	{
+		"ID" : 10026,
+		"Name" : "RainBow",
+		"Path" : "Assets/GameData/Prefabs/Building/GuangJing/RainBow.prefab"
+	},
+	{
+		"ID" : 10027,
+		"Name" : "Ships",
+		"Path" : "Assets/GameData/Prefabs/Building/Boat/Ships.prefab"
+	},
+	{
+		"ID" : 10028,
+		"Name" : "Fountain",
+		"Path" : "Assets/GameData/Prefabs/VFX/Fountain.prefab"
+	},
+	{
+		"ID" : 10029,
+		"Name" : "Fog",
+		"Path" : "Assets/GameData/Prefabs/Item/Fog.prefab"
+	},
+	{
+		"ID" : 10030,
+		"Name" : "Directional Light_Cross",
+		"Path" : "Assets/GameData/Prefabs/Item/Directional Light_Cross.prefab"
+	},
+	{
+		"ID" : 10031,
+		"Name" : "VFX",
+		"Path" : "Assets/GameData/Prefabs/VFX/VFX.prefab"
+	},
+	{
+		"ID" : 10032,
+		"Name" : "TeleportSpot",
+		"Path" : "Assets/GameData/Prefabs/TeleportSpot.prefab"
+	},
+	{
+		"ID" : 10033,
+		"Name" : "GalleryNew",
+		"Path" : "Assets/GameData/Prefabs/Building/PersonalGallery/GalleryNew.prefab"
+	}
+]
+
+}

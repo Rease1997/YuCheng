@@ -1,0 +1,356 @@
+﻿{
+	"data": 
+[
+	{
+		"ID" : 1,
+		"PrefabID" : 1001,
+		"Name" : "Terrain",
+		"Parent" : -1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 2,
+		"PrefabID" : 10001,
+		"Name" : "Terrain_00",
+		"Parent" : 1,
+		"Position" : "-500|-100|-750",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|0.5"
+	},
+	{
+		"ID" : 3,
+		"PrefabID" : 10002,
+		"Name" : "road03",
+		"Parent" : 1,
+		"Position" : "3|-4.1|202",
+		"Rotation" : "0|32.791|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 4,
+		"PrefabID" : 10003,
+		"Name" : "Mountain_01",
+		"Parent" : 1,
+		"Position" : "192.6|-6.3|-437.1",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 5,
+		"PrefabID" : 10004,
+		"Name" : "StylizedWater2",
+		"Parent" : 1,
+		"Position" : "0.6|-10.5|-94.2",
+		"Rotation" : "0|0|0",
+		"Scale" : "100|2.609215|100"
+	},
+	{
+		"ID" : 6,
+		"PrefabID" : 10005,
+		"Name" : "Tree_Low",
+		"Parent" : 1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 7,
+		"PrefabID" : 10006,
+		"Name" : "Trees",
+		"Parent" : 1,
+		"Position" : "-387.02|41.67|381.74",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 8,
+		"PrefabID" : 10007,
+		"Name" : "CityGrass",
+		"Parent" : 1,
+		"Position" : "72.178|-5.367|-140.655",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 9,
+		"PrefabID" : 10008,
+		"Name" : "Bush",
+		"Parent" : 1,
+		"Position" : "-360.798|12.43|451.697",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 10,
+		"PrefabID" : 10009,
+		"Name" : "SmallPlants",
+		"Parent" : 1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 11,
+		"PrefabID" : 10010,
+		"Name" : "Rocks",
+		"Parent" : 1,
+		"Position" : "-272.99|25.55|361.06",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 12,
+		"PrefabID" : 1001,
+		"Name" : "GuZhen",
+		"Parent" : -1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 13,
+		"PrefabID" : 10011,
+		"Name" : "StreetLight",
+		"Parent" : 12,
+		"Position" : "177.1051|-2.960011|-303.6119",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 14,
+		"PrefabID" : 10012,
+		"Name" : "GuzhenCombined_A03_tianye_1128",
+		"Parent" : 12,
+		"Position" : "16.35001|-7.299988|-109.3",
+		"Rotation" : "0|21.198|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 15,
+		"PrefabID" : 10013,
+		"Name" : "A4_Center",
+		"Parent" : 12,
+		"Position" : "71.22|-5.97|-82.64",
+		"Rotation" : "0|316.5839|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 16,
+		"PrefabID" : 10014,
+		"Name" : "A_Fish",
+		"Parent" : 12,
+		"Position" : "81.341|-1.698|-130.898",
+		"Rotation" : "0|19.98589|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 17,
+		"PrefabID" : 10015,
+		"Name" : "interiorphoto",
+		"Parent" : 12,
+		"Position" : "-120711.1|1022.9|-70999.3",
+		"Rotation" : "0|39.101|1",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 18,
+		"PrefabID" : 10016,
+		"Name" : "A4_Lamppost",
+		"Parent" : 12,
+		"Position" : "41.03|-5.3|-182.57",
+		"Rotation" : "0|310.1191|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 19,
+		"PrefabID" : 1001,
+		"Name" : "DongMenDao",
+		"Parent" : -1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 20,
+		"PrefabID" : 10017,
+		"Name" : "Bridge",
+		"Parent" : 19,
+		"Position" : "-390.089|3.635986|448.734",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 21,
+		"PrefabID" : 10018,
+		"Name" : "Brige_over_Sea_01",
+		"Parent" : 19,
+		"Position" : "-63.1|-2.3|-239.1",
+		"Rotation" : "0|183.7092|0",
+		"Scale" : "1.2248|1|1"
+	},
+	{
+		"ID" : 22,
+		"PrefabID" : 10019,
+		"Name" : "DongMenDao_AddBuildings_02(1)",
+		"Parent" : 19,
+		"Position" : "-47.19|-2.730011|172.12",
+		"Rotation" : "0|110.5187|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 23,
+		"PrefabID" : 10020,
+		"Name" : "DongMenDao_New",
+		"Parent" : 19,
+		"Position" : "-405.936|8.335999|520.7261",
+		"Rotation" : "0|16.286|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 24,
+		"PrefabID" : 10021,
+		"Name" : "light_tower",
+		"Parent" : 19,
+		"Position" : "-392.1874|20.79999|527.7621",
+		"Rotation" : "0|356.7348|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 25,
+		"PrefabID" : 10022,
+		"Name" : "Wharf",
+		"Parent" : 19,
+		"Position" : "-34.56348|-4.65|81.91985",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 26,
+		"PrefabID" : 10023,
+		"Name" : "Furniture",
+		"Parent" : 19,
+		"Position" : "-419.23|6.612001|570.53",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 27,
+		"PrefabID" : 10024,
+		"Name" : "AirWallDMD",
+		"Parent" : 19,
+		"Position" : "-155|0|351",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 28,
+		"PrefabID" : 1001,
+		"Name" : "GuangJing",
+		"Parent" : -1,
+		"Position" : "-32.98812|244.3611|-20.00636",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 29,
+		"PrefabID" : 10025,
+		"Name" : "C3_Guangjing",
+		"Parent" : 28,
+		"Position" : "-12.71188|-4.761093|11.00636",
+		"Rotation" : "0|180|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 30,
+		"PrefabID" : 10026,
+		"Name" : "RainBow",
+		"Parent" : 28,
+		"Position" : "-14.05728|10.37|-217.1671",
+		"Rotation" : "357.1953|71.2979|333.3627",
+		"Scale" : "403.8867|308.5317|31.61283"
+	},
+	{
+		"ID" : 31,
+		"PrefabID" : 10027,
+		"Name" : "Ships",
+		"Parent" : -1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 32,
+		"PrefabID" : 1001,
+		"Name" : "ParticleSystem",
+		"Parent" : -1,
+		"Position" : "63.23991|-6.3|-88.62641",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 33,
+		"PrefabID" : 10028,
+		"Name" : "Fountain",
+		"Parent" : 32,
+		"Position" : "12.50589|0|12.29221",
+		"Rotation" : "0|1.499998|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 34,
+		"PrefabID" : 10029,
+		"Name" : "Fog",
+		"Parent" : -1,
+		"Position" : "205.7|83.7|-434.9",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 35,
+		"PrefabID" : 1001,
+		"Name" : "Light",
+		"Parent" : -1,
+		"Position" : "0|0|0",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 36,
+		"PrefabID" : 10030,
+		"Name" : "Directional Light_Cross",
+		"Parent" : 35,
+		"Position" : "103.9321|8.416234|-237.8829",
+		"Rotation" : "18.77094|232.5729|359.7016",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 37,
+		"PrefabID" : 10031,
+		"Name" : "VFX",
+		"Parent" : -1,
+		"Position" : "83.91|9.58|-178.4",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 38,
+		"PrefabID" : 10032,
+		"Name" : "TeleportSpot",
+		"Parent" : -1,
+		"Position" : "-162.3339|5.33|-211.344",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	},
+	{
+		"ID" : 39,
+		"PrefabID" : 10033,
+		"Name" : "GalleryNew",
+		"Parent" : -1,
+		"Position" : "284.1|-1000|261",
+		"Rotation" : "0|0|0",
+		"Scale" : "1|1|1"
+	}
+]
+}
