@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d139c5ead79ae44bce828db157bbee, type: 3}
+  m_Name: ABConfig
+  m_EditorClassIdentifier: 
+  m_AllPrefabPath:
+  - Assets/GameData/Mesh
+  - Assets/GameData/Sounds/SingleSounds
+  - Assets/GameData/Prefabs
+  m_AllFileDirAB:
+  - abName: Player
+    path: Assets/GameData/Animation/Player
+  - abName: YuGuang
+    path: Assets/GameData/Animation/YuGuang
+  - abName: OtherAnimation
+    path: Assets/GameData/Animation/Other
+  - abName: Animator
+    path: Assets/GameData/Animator
+  - abName: ABData
+    path: Assets/GameData/Data/ABData
+  - abName: Binary
+    path: Assets/GameData/Data/Binary
+  - abName: HotFix
+    path: Assets/GameData/Data/HotFix
+  - abName: Json
+    path: Assets/GameData/Data/Json
+  - abName: Lighting
+    path: Assets/GameData/Lighting
+  - abName: ScriptAtlas
+    path: Assets/GameData/ScriptAtlas/UI
+  - abName: Font
+    path: Assets/GameData/ScriptAtlas/Fonts
+  - abName: Shaders
+    path: Assets/GameData/Shaders
+  - abName: AddSounds
+    path: Assets/GameData/Sounds/AddSounds
+  - abName: LionMaterials
+    path: Assets/GameData/Materials/Lion
+  - abName: MountainMaterials
+    path: Assets/GameData/Materials/Mountain
+  - abName: MushRoomMaterials
+    path: Assets/GameData/Materials/MushRoom
+  - abName: OtherMaterials
+    path: Assets/GameData/Materials/Other
+  - abName: PlayerMaterials
+    path: Assets/GameData/Materials/Player
+  - abName: RoadMaterials
+    path: Assets/GameData/Materials/Road
+  - abName: StoneMaterials
+    path: Assets/GameData/Materials/Stone
+  - abName: TreeMaterials
+    path: Assets/GameData/Materials/Tree
+  - abName: UIMaterials
+    path: Assets/GameData/Materials/UI
+  - abName: VFXMaterials
+    path: Assets/GameData/Materials/VFX
+  - abName: Materials_Textures_Boat
+    path: Assets/GameData/Materials_Textures(Buildings)/Boat
+  - abName: Materials_Textures_Bridge
+    path: Assets/GameData/Materials_Textures(Buildings)/Bridge
+  - abName: Materials_Textures_Brige_over_Sea_01
+    path: Assets/GameData/Materials_Textures(Buildings)/Brige_over_Sea_01
+  - abName: Materials_Textures_DongMenDao
+    path: Assets/GameData/Materials_Textures(Buildings)/DongMenDao
+  - abName: Materials_Textures_DongMenDaoAdd
+    path: Assets/GameData/Materials_Textures(Buildings)/DongMenDaoAdd
+  - abName: Materials_Textures_Effects
+    path: Assets/GameData/Materials_Textures(Buildings)/Effects
+  - abName: Materials_Textures_GuZhen
+    path: Assets/GameData/Materials_Textures(Buildings)/GuZhen
+  - abName: Materials_Textures_Item
+    path: Assets/GameData/Materials_Textures(Buildings)/Item
+  - abName: Materials_Textures_Light_Tower
+    path: Assets/GameData/Materials_Textures(Buildings)/Light_Tower
+  - abName: Materials_Textures_Plants
+    path: Assets/GameData/Materials_Textures(Buildings)/Plants
+  - abName: Materials_Textures_Wharf
+    path: Assets/GameData/Materials_Textures(Buildings)/Wharf
+  - abName: Materials_Textures_Terrain
+    path: Assets/GameData/Terrain
+  - abName: Sky
+    path: Assets/GameData/Sky
+  - abName: Materials_Textures_Gallery
+    path: Assets/GameData/Materials_Textures(Buildings)/Gallery
