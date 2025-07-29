@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c06c91c9416ad0f4e8a67d6103e77fdc
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      48: 4800000
+    second: MainAsset
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: rocks_prefab
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 68c7d7bfc0362c5429557c42cee14f13, type: 3}
+  _importSettings:
+    _editors:
+    - VisualDesignCafe.Nature.Editor.ShaderRenderingSection
+    - VisualDesignCafe.Nature.Editor.ShaderIntegrationsSection
+    _properties: []
