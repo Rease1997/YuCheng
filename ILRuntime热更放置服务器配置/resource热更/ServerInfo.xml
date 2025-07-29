@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerInfo>
+	<GameVersion Version="1.0" >
+<Pathces Version="1" Des="第一次热更新">
+ <Files Name="Android" Url="https://m.ygzcmeta.com/resource/AssetBundle/Android/1.0.0/1/Android" Platform="Android" Md5="21cbeb8b8dbf65ef51e3fea9c74fb7ae" Size="9.072266" />
+  <Files Name="hotfix" Url="https://m.ygzcmeta.com/resource/AssetBundle/Android/1.0.0/1/hotfix" Platform="Android" Md5="6ea91838b3c905fb4b6293a46fcb0dac" Size="50.49414" />
+</Pathces>
+	</GameVersion>
+</ServerInfo>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pathces xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <Files Name="hotfix" Url="https://m.ygzcmeta.com/resource/AssetBundle/iOS/1.0.0/1/hotfix" Platform="iOS" Md5="719f2b461b040b61ced150ebf2b97a26" Size="50.49414" />
+  <Files Name="iOS" Url="https://m.ygzcmeta.com/resource/AssetBundle/iOS/1.0.0/1/iOS" Platform="iOS" Md5="75a99b81d9de67ea058c8f8c0b3697d1" Size="9.072266" />
+</Pathces>
